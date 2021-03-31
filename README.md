@@ -25,8 +25,6 @@ Em constante evolução. A descrição acima pode ter mudado totalmente enquanto
 
 Onde me encontrar? :mag: :information_desk_person: 
 
-<a href="https://www.linkedin.com/in/sarabfelix"><img src="https://github.com/sarafelix25/sarafelix/blob/master/imagens/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/sarabfelix)  
-
-<a href="mailto:sarabfelix1@gmail.com"><img src="https://github.com/sarafelix25/sarafelix/blob/master/imagens/gmail.png" width="16"></img></a> [Email](mailto:sarabfelix1@gmail.com)  
+<a href="https://www.linkedin.com/in/sarabfelix"><img src="https://github.com/sarafelix25/sarafelix/blob/master/imagens/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/sarabfelix) <a href="mailto:sarabfelix1@gmail.com"><img src="https://github.com/sarafelix25/sarafelix/blob/master/imagens/gmail.png" width="16"></img></a> [Email](mailto:sarabfelix1@gmail.com)  
 
 ![](https://komarev.com/ghpvc/?username=sarafelix25&color=blue&style=flat)
