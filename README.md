@@ -10,16 +10,16 @@
   </table>
 </center>  
 
-### Olá! Seja bem vindo(a)!! :) :rocket:
+### Olá! Seja bem vindo(a)!! :rocket: :partying_face: 
 ---
 
-20 anos, curiosa e consequentemente apaixonada por tecnologia, viagens e expansão do conhecimento. :books: :trip:
+20 anos, curiosa e consequentemente apaixonada por tecnologia :woman_technologist_tone4: , viagens :school_satchel: :map:  e expansão do conhecimento. :books: 
 
-Estudante de Ciência e Tecnologia com ênfase em Ciência da Computação e Engenharia de Informação na Federal do ABC. Desenvolvedora Mobile Android pela Digital House Brasil em parceria com o Santander Tecnologias e estou me arriscando na área de Data Analytics com o BeeData e CS IEEE UFABC.
+Estudante de Ciência e Tecnologia com ênfase em Ciência da Computação e Engenharia de Informação :woman_technologist_tone4: na Federal do ABC. Desenvolvedora Mobile Android  :mobile_phone: :computer: :calling: pela Digital House Brasil em parceria com o Santander Tecnologias e estou me arriscando na área de Data Analytics :bar_chart: :card_box: com o BeeData e CS IEEE UFABC(https://github.com/ieeecsufabc).
 
 Atualmente em busca de uma oportunidade de Estágio de Desenvolvimento. Possuo noções básicas e intermediárias de linguagens de programação Java, JavaScript, Kotlin, C#, Python, SQL, Front-end(HTML e CSS), Power BI e espero que o estágio me dê a oportunidade de me desenvolver profissionalmente e pessoalmente para a sociedade.
 
-Em constante evolução. A descrição acima pode ter mudado totalmente enquanto você lia. 
+Em constante evolução. A descrição acima pode ter mudado totalmente enquanto você lia. :face_with_hand_over_mouth: 
 
 ---
 
@@ -28,10 +28,5 @@ Onde me encontrar? :mag:
 <a href="https://www.linkedin.com/in/sarabfelix"><img src="https://github.com/sarafelix25/sarafelix/blob/master/imagens/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/sarabfelix)  
 
 <a href="mailto:sarabfelix1@gmail.com"><img src="https://github.com/sarafelix25/sarafelix/blob/master/imagens/gmail.png" width="16"></img></a> [Email](mailto:sarabfelix1@gmail.com)  
-
-<a href="https://www.facebook.com/sara.felix.35977897/"><img src="https://github.com/sarafelix25/sarafelix/blob/master/imagens/facebook.png" width="16"></img></a> [Twitter](https://www.facebook.com/sara.felix.35977897/)   
-
-<a href="https://www.instagram.com/sarafelix_/"><img src="https://github.com/sarafelix25/sarafelix/blob/master/imagens/instagram.png" width="16"></img></a> [Instagram](https://www.instagram.com/sarafelix_)  
----  
 
 ![](https://komarev.com/ghpvc/?username=sarafelix25&color=blue&style=flat)
