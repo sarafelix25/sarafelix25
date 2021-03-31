@@ -13,9 +13,9 @@
 ### Olá! Seja bem vindo(a)!! :rocket: :partying_face: 
 ---
 
-20 anos, curiosa e consequentemente apaixonada por tecnologia :woman_technologist_tone4: , viagens :school_satchel: :map:  e expansão do conhecimento. :books: 
+20 anos, curiosa e consequentemente apaixonada por tecnologia :woman: :computer: , viagens :school_satchel: :earth_americas: e expansão do conhecimento. :books: 
 
-Estudante de Ciência e Tecnologia com ênfase em Ciência da Computação e Engenharia de Informação :woman_technologist_tone4: na Federal do ABC. Desenvolvedora Mobile Android  :mobile_phone: :computer: :calling: pela Digital House Brasil em parceria com o Santander Tecnologias e estou me arriscando na área de Data Analytics :bar_chart: :card_box: com o BeeData e CS IEEE UFABC(https://github.com/ieeecsufabc).
+Estudante de Ciência e Tecnologia com ênfase em Ciência da Computação e Engenharia de Informação :raising_hand: :computer: na Federal do ABC. Desenvolvedora Mobile Android  :iphone: :computer: :calling: pela Digital House Brasil em parceria com o Santander Tecnologias e estou me arriscando na área de Data Analytics :bar_chart: :card_index: com o <a href="https://www.linkedin.com/company/beedata-usp/mycompany/"></a> [BeeData](https://www.linkedin.com/company/beedata-usp/mycompany/). e <a href="https://github.com/ieeecsufabc"></a> [CS IEEE UFABC](https://github.com/ieeecsufabc).
 
 Atualmente em busca de uma oportunidade de Estágio de Desenvolvimento. Possuo noções básicas e intermediárias de linguagens de programação Java, JavaScript, Kotlin, C#, Python, SQL, Front-end(HTML e CSS), Power BI e espero que o estágio me dê a oportunidade de me desenvolver profissionalmente e pessoalmente para a sociedade.
 
