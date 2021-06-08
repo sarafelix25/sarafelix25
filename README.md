@@ -13,7 +13,7 @@
 ### Olá! Seja bem vindo(a)!! :rocket: :partying_face: 
 ---
 
-20 anos, curiosa :laughing: e consequentemente apaixonada por tecnologia :computer: , viagens  :earth_americas: e expansão do conhecimento. :books: 
+21 anos, curiosa :laughing: e consequentemente apaixonada por tecnologia :computer: , viagens  :earth_americas: e expansão do conhecimento. :books: 
 
 Estudante de Ciência e Tecnologia com ênfase em Ciência da Computação e Engenharia de Informação :raising_hand: :computer: na Federal do ABC. Desenvolvedora Mobile Android  :iphone: :computer: :calling: pela Digital House Brasil em parceria com o Santander Tecnologias :hotsprings: e estou me arriscando na área de Data Analytics :bar_chart: :card_index: com o <a href="https://www.linkedin.com/company/beedata-usp/mycompany/"></a> [BeeData](https://www.linkedin.com/company/beedata-usp/mycompany/). e <a href="https://github.com/ieeecsufabc"></a> [CS IEEE UFABC](https://github.com/ieeecsufabc).
 
