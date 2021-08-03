@@ -17,9 +17,7 @@
 
 Estudante de Ciência e Tecnologia com ênfase em Ciência da Computação e Engenharia de Informação :raising_hand: :computer: na Federal do ABC. 
 
-Estagiária de Engenharia de Software na Accenture na área de desenvolvimento mobile iOS.
-
-Atualmente em busca de uma oportunidade como Desenvolvedora Mobile Jr. Possuo noções básicas e intermediárias de linguagens de programação Java, JavaScript, Kotlin, C#, Python, SQL,Power BI e espero ter a oportunidade de me desenvolver profissionalmente e pessoalmente para a sociedade.
+Atualmente em busca de uma oportunidade como Desenvolvedora Mobile Jr. Possuo noções básicas e intermediárias de linguagens de programação Java, JavaScript, Kotlin, C#, SQL,Power BI e espero ter a oportunidade de me desenvolver profissionalmente e pessoalmente para a sociedade.
 
 Em constante evolução. A descrição acima pode ter mudado totalmente enquanto você lia. :sweat_smile:
 
