@@ -15,9 +15,11 @@
 
 21 anos, curiosa :laughing: e consequentemente apaixonada por tecnologia :computer: , viagens  :earth_americas: e expansão do conhecimento. :books: 
 
-Estudante de Ciência e Tecnologia com ênfase em Ciência da Computação e Engenharia de Informação :raising_hand: :computer: na Federal do ABC. Desenvolvedora Mobile Android  :iphone: :computer: :calling: pela Digital House Brasil em parceria com o Santander Tecnologias :hotsprings: e estou me arriscando na área de Data Analytics :bar_chart: :card_index: com o <a href="https://www.linkedin.com/company/beedata-usp/mycompany/"></a> [BeeData](https://www.linkedin.com/company/beedata-usp/mycompany/). e <a href="https://github.com/ieeecsufabc"></a> [CS IEEE UFABC](https://github.com/ieeecsufabc).
+Estudante de Ciência e Tecnologia com ênfase em Ciência da Computação e Engenharia de Informação :raising_hand: :computer: na Federal do ABC. 
 
-Atualmente em busca de uma oportunidade como Desenvolvedora Mobile Jr. Possuo noções básicas e intermediárias de linguagens de programação Java, JavaScript, Kotlin, C#, Python, SQL, Front-end(HTML e CSS), Power BI e espero ter a oportunidade de me desenvolver profissionalmente e pessoalmente para a sociedade.
+Estagiária de Engenharia de Software na Accenture na área de desenvolvimento mobile iOS.
+
+Atualmente em busca de uma oportunidade como Desenvolvedora Mobile Jr. Possuo noções básicas e intermediárias de linguagens de programação Java, JavaScript, Kotlin, C#, Python, SQL,Power BI e espero ter a oportunidade de me desenvolver profissionalmente e pessoalmente para a sociedade.
 
 Em constante evolução. A descrição acima pode ter mudado totalmente enquanto você lia. :sweat_smile:
 
