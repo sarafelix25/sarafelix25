@@ -17,7 +17,7 @@
 
 Estudante de Ciência e Tecnologia com ênfase em Ciência da Computação e Engenharia de Informação :raising_hand: :computer: na Federal do ABC. 
 
-Atualmente em busca de uma oportunidade como Desenvolvedora Mobile Jr. Possuo noções básicas e intermediárias de linguagens de programação Java, JavaScript, Kotlin, C#, SQL,Power BI e espero ter a oportunidade de me desenvolver profissionalmente e pessoalmente para a sociedade.
+Atualmente busco me tornar uma Desenvolvedora Mobile iOS Jr.
 
 Em constante evolução. A descrição acima pode ter mudado totalmente enquanto você lia. :sweat_smile:
 
