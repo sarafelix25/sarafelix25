@@ -20,8 +20,6 @@ Onde me encontrar? :mag: :information_desk_person:
 
 ![](https://komarev.com/ghpvc/?username=sarafelix25&color=blue&style=flat)
 
-![capa github](https://github.com/sarafelix25/sarafelix/blob/master/imagens/sarafelix.png)  
-
 <center>
   <table>
     <tr>
@@ -31,3 +29,4 @@ Onde me encontrar? :mag: :information_desk_person:
   </table>
 </center>  
 
+![capa github](https://github.com/sarafelix25/sarafelix/blob/master/imagens/sarafelix.png)  
