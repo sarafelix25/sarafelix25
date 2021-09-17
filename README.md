@@ -1,16 +1,6 @@
-![capa github](https://github.com/sarafelix25/sarafelix/blob/master/imagens/sarafelix.png)  
+### Hey, I'm Sara! Welcome!! :rocket: :partying_face: 
 
-
-<center>
-  <table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarafelix25&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=sarafelix25&theme=buefy"/></td>
-    </tr>   
-  </table>
-</center>  
-
-### Olá! Seja bem vindo(a)!! :rocket: :partying_face: 
+#### She, her
 ---
 
 21 anos, curiosa :laughing: e consequentemente apaixonada por tecnologia :computer: , viagens  :earth_americas: e expansão do conhecimento. :books: 
@@ -29,3 +19,15 @@ Onde me encontrar? :mag: :information_desk_person:
 [Email](mailto:sarabfelix1@gmail.com)  
 
 ![](https://komarev.com/ghpvc/?username=sarafelix25&color=blue&style=flat)
+
+![capa github](https://github.com/sarafelix25/sarafelix/blob/master/imagens/sarafelix.png)  
+
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarafelix25&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=sarafelix25&theme=buefy"/></td>
+    </tr>   
+  </table>
+</center>  
+
