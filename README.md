@@ -8,11 +8,11 @@
   <br>
   👩🏻‍💻 Dev iOS Fellow - <a href="https://devpass.com.br/"><b>Devpass</b></a>.
   <br>
-  📌 Trabalhando atualmente com ViewCode
+  📌 Trabalhando atualmente com View Code e VIPER
   <br>
   💻 21 anos, curiosa :laughing: e consequentemente apaixonada por tecnologia e viagens  :earth_americas: :books: 
   <br>
-  💬 Em constante evolução. A descrição acima pode ter mudado enquanto você lia. :sweat_smile:
+  💬 Em constante evolução... A descrição acima pode ter mudado enquanto você lia. :sweat_smile:
   </em>
 </p>
 
