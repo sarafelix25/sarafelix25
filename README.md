@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img img height="100" src="https://github.com/sarafelix25/sarafelix25/blob/main/wave.gif">
+  <img img height="60" src="https://github.com/sarafelix25/sarafelix25/blob/main/wave.gif">
   🎓 Estudante de Ciência e Tecnologia com ênfase em Ciência da Computação - <a href="https://www.ufabc.edu.br/"><b>UFABC</b></a>.
   <br>
   👩🏻‍💻 Dev iOS Fellow - <a href="https://devpass.com.br/"><b>Devpass</b></a>.
