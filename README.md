@@ -8,7 +8,7 @@
   <br>
   👩🏻‍💻 Dev iOS Fellow - <a href="https://devpass.com.br/"><b>Devpass</b></a>.
   <br>
-  📌 Atuando com View Code e VIPER
+  📌 Atuando com Xib e VIPER  - <a href="https://actdigital.com/"><b>Devpass</b></a>.
   <br>
   💻 21 anos, curiosa :laughing: e consequentemente apaixonada por tecnologia e viagens  :earth_americas: :books: 
   <br>
