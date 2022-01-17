@@ -15,7 +15,7 @@
   Em constante evolução...
   A descrição acima pode ter mudado enquanto você lia. :sweat_smile:
   <br>
-  O ícone do Notion() dá acesso a um compilado de arquivos/sites/textos(gratuitos!!!) sobre Cursos de Tecnologia
+  Clicando no ícone <img img height="30" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1570106347/noticon/hx52ypkqqdzjdvd8iaid.svg"> você terá acesso a um compilado de arquivos/sites/textos(gratuitos!!!) sobre Cursos de Tecnologia
   </em>
 </p>
 
