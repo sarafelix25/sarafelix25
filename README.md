@@ -12,9 +12,6 @@
   <br>
   💻 21 anos, curiosa :laughing: e consequentemente apaixonada por tecnologia e viagens  :earth_americas: :books: 
   <br>
-  Em constante evolução...
-  A descrição acima pode ter mudado enquanto você lia. :sweat_smile:
-  <br>
   Clicando no ícone <img img height="30" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1570106347/noticon/hx52ypkqqdzjdvd8iaid.svg"> você terá acesso a um compilado de arquivos/sites/textos(gratuitos!!!) sobre cursos de tecnologia
   </em>
 </p>
