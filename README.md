@@ -12,7 +12,10 @@
   <br>
   💻 21 anos, curiosa :laughing: e consequentemente apaixonada por tecnologia e viagens  :earth_americas: :books: 
   <br>
-  💬 Em constante evolução... A descrição acima pode ter mudado enquanto você lia. :sweat_smile:
+  Em constante evolução...
+  A descrição acima pode ter mudado enquanto você lia. :sweat_smile:
+  <br>
+  O ícone do Notion() dá acesso a um compilado de arquivos/sites/textos(gratuitos!!!) sobre Cursos de Tecnologia
   </em>
 </p>
 
