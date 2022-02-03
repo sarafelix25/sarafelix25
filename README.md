@@ -1,23 +1,14 @@
-<p align="center">
-  <img height="180" src="https://github.com/sarafelix25/sarafelix25/blob/main/messagif%20(1).gif">
-</p>
+ <div align="center">
 
 <p align="center">
-  <img img height="60" src="https://github.com/sarafelix25/sarafelix25/blob/main/wave.gif">
-  🎓 Estudante de Ciência e Tecnologia com ênfase em Ciência da Computação - <a href="https://www.ufabc.edu.br/"><b>UFABC</b></a>.
-  <br>
-  👩🏻‍💻 Dev iOS Fellow - <a href="https://devpass.com.br/"><b>Devpass</b></a>.
-  <br>
-  📌 Atuando com ViewCode, Xib e VIPER  - <a href="https://www.capgemini.com/br-pt/"><b>Capgemini</b></a>.
-  <br>
-  💻 21 anos, curiosa :laughing: e consequentemente apaixonada por tecnologia e viagens  :earth_americas: :books: 
-  <br>
-  Clicando no ícone <img img height="30" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1570106347/noticon/hx52ypkqqdzjdvd8iaid.svg"> você terá acesso a um compilado de arquivos/sites/textos(gratuitos!!!) sobre cursos de tecnologia
-  </em>
+  <img align="center"src="https://github.com/sarafelix25/sarafelix25/blob/main/messagif%20(1).gif">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sarafelix25&count_private=true&show_icons=true&hide_border=true" />
 </p>
 
+  ---
 ## Skills :nerd_face:
-<p align="center">
+
+  <p align="center">
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -31,7 +22,22 @@
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-
+  
+  ---
+<p align="center">
+  🎓 Estudante de Ciência e Tecnologia com ênfase em Ciência da Computação - <a href="https://www.ufabc.edu.br/"><b>UFABC</b></a>.
+  <br>
+  👩🏻‍💻 Dev iOS Fellow - <a href="https://devpass.com.br/"><b>Devpass</b></a>.
+  <br>
+  📌 Atuando com ViewCode, Xib e VIPER  - <a href="https://www.capgemini.com/br-pt/"><b>Capgemini</b></a>.
+  <br>
+  💻 21 anos, curiosa :laughing: e consequentemente apaixonada por tecnologia e viagens  :earth_americas: :books: 
+  <br>
+  Clicando no ícone <img img height="30" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1570106347/noticon/hx52ypkqqdzjdvd8iaid.svg"> você terá acesso a um compilado de arquivos/sites/textos(gratuitos!!!) sobre cursos de tecnologia
+  </em>
+</p>
+  
+  ---
 ## Contact :iphone:
 
 <p align="center">
@@ -52,7 +58,9 @@
     </a>
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sarafelix25&count_private=true&show_icons=true&hide_border=true" />
+---
+  <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarafelix25&count_private=true&show_icons=true&hide_border=true" />
 </p>
+
+</div align="center">
