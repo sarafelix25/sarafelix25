@@ -29,11 +29,11 @@
   <br>
   👩🏻‍💻 Dev iOS Fellow - <a href="https://devpass.com.br/"><b>Devpass</b></a>.
   <br>
-  📌 Atuando com ViewCode, Xib e VIPER  - <a href="https://www.capgemini.com/br-pt/"><b>Capgemini</b></a>.
+  📌 iOS Developer  - <a href="https://www.capgemini.com/br-pt/"><b>CI&T</b></a>.
   <br>
   💻 21 anos, curiosa :laughing: e consequentemente apaixonada por tecnologia e viagens  :earth_americas: :books: 
   <br>
-  Clicando no ícone <img img height="30" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1570106347/noticon/hx52ypkqqdzjdvd8iaid.svg"> você terá acesso a um compilado de arquivos/sites/textos(gratuitos!!!) sobre cursos de tecnologia
+  Clicando no ícone <img img height="18" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1570106347/noticon/hx52ypkqqdzjdvd8iaid.svg"> você terá acesso a um compilado de arquivos/sites/textos(gratuitos!!!) sobre cursos de tecnologia
   </em>
 </p>
   
