@@ -69,7 +69,7 @@
   <br>
   📌 iOS Developer  - <a href="https://www.capgemini.com/br-pt/"><b>CI&T</b></a>.
   <br>
-  💻 22 anos, curiosa :laughing: e apaixonada por tecnologia e viagens  :earth_americas: :books: 
+  💻 22 years old, curious :laughing: and passionate about technology and travel :earth_americas: :books: 
   <br>
 </p>
   
