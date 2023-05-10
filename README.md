@@ -65,9 +65,7 @@
 <p align="center">
   🎓 Science and Technology Student - <a href="https://www.ufabc.edu.br/"><b>UFABC</b></a>.
   <br>
-  👩🏻‍💻 Dev iOS Fellow - <a href="https://devpass.com.br/"><b>Devpass</b></a>.
-  <br>
-  📌 iOS Developer  - <a href="https://www.capgemini.com/br-pt/"><b>CI&T</b></a>.
+  📌 iOS Developer
   <br>
   💻 22 years old, curious :laughing: and passionate about technology and travel :earth_americas: :books: 
   <br>
