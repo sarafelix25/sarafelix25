@@ -67,7 +67,7 @@
   <br>
   📌 iOS Developer
   <br>
-  💻 22 years old, curious :laughing: and passionate about technology and travel :earth_americas: :books: 
+  💻 23 years old, curious :laughing: and passionate about technology and travel :earth_americas: :books: 
   <br>
 </p>
   
